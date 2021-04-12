@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Ejemplo de buscador de direcciones con Leaflet y Nominatim</title>
+    <title>GeoVisor GADI</title>
 
     <link rel="stylesheet" href="css/leaflet.css" />
     <!--[if lte IE 8]><link rel="stylesheet" href="js/leaflet.ie.css" /><![endif]-->
